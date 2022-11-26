@@ -1,0 +1,2 @@
+# miniString
+miniString
